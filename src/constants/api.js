@@ -1,0 +1,1 @@
+export const API = "https://api.pokemontcg.io/v1/cards?setCode=base1";
